@@ -2,8 +2,6 @@
 
 A Node.js command-line utility that automatically classifies images as daytime or nighttime based on brightness analysis. Processes images in bulk and organizes them into appropriate folders.
 
-![Workflow Diagram](https://via.placeholder.com/800x400.png?text=Day/Night+Image+Classification+Workflow)
-
 ## Features ✨
 
 - 📁 Batch processes all images in input folder
@@ -20,8 +18,8 @@ A Node.js command-line utility that automatically classifies images as daytime o
 ## Installation 💻
 
 ```bash
-git clone https://github.com/yourusername/image-classification.git
-cd image-classification
+git clone  https://github.com/AboMeezO/Image_Classification_Tool.git
+cd Image_Classification_Tool
 npm install
 ```
 
@@ -31,7 +29,7 @@ npm install
 2. Run classification:
 
 ```bash
-node index.js
+node .
 ```
 
 3. Find sorted images in:
